@@ -10,3 +10,6 @@ python manage.py createsuperuser     --> Crear una cuenta de usuario en Django, 
 http://127.0.0.1:8000/admin          --> Abre la página web de administración de Django (previamente crear un superuser)
 
 # et-gato-tuerto
+
+Sebastian Catalan 
+Felipe Ruiz
